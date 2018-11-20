@@ -1,9 +1,15 @@
 .row{
   text-align:center;
-  
+  font-family: 'Fredoka One', cursive;
+  color: lightblue;
+  background-color: lightyellow;
 }
 #choices{
   display:flex;
   justify-content:space-between;
   
+}
+
+#image{
+  width: 100px;
 }
